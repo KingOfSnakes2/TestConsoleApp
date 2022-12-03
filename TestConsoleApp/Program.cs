@@ -11,6 +11,7 @@ namespace TestConsoleApp
         static void Main(string[] args)
         {
             Console.WriteLine("PON");
+            Console.WriteLine("l");
             Console.ReadLine();
         }
     }
